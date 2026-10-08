@@ -47,7 +47,7 @@
     <address>
       <p class="foo-txt">
         © 2026 <span ><a class="miweb-link" href="../index.html" >Juan Miguel Dominguez</a></span> Todos los derechos reservados.
-        <a href="https://github.com/Juan-D07/JDPDAWProyectoDAW" target="_blank"> <img class="github" src="webroot/images/github.png"  alt="Github logo"/></a>
+        <a href="https://github.com/Juan-D07/JDPCIBProyectoCIB" target="_blank"> <img class="github" src="webroot/images/github.png"  alt="Github logo"/></a>
       </p>
     </address>
   </footer>
