@@ -30,7 +30,7 @@
         </div>
         <div class="unidad-div">
           <div class="unidad-titulo">SERVIDOR WEB SEGURO</div>
-          <span><a class="ejercicio-nombre" href="https://github.com/Juan-D07/JDPDAWProyectoDAW/servidorDesarrolloDocu.md" target="_blank"> Servidor de Desarrollo Documentacion </a></span>
+          <span><a class="ejercicio-nombre" href="https://github.com/Juan-D07/JDPDAWProyectoDAW/blob/main/docs/Documentacion-JDP-USED.md" target="_blank"> USED - Servidor Web</a></span>
         </div>
         <div class="unidad-div">
           <a class="funcional" href="../JDPDWESProyectoTema3/indexProyectoTema3.php">
