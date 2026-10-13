@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> DAW · Juan Miguel Dominguez </title>
+    <title> CIB · Juan Miguel Dominguez </title>
     <link rel="icon" href="webroot/images/favicon.png" type="image/png"> 
     <link rel="stylesheet" href="webroot/font/Oswald-VariableFont_wght.ttf">   
     <link rel="stylesheet" href="webroot/style.css">
@@ -18,7 +18,7 @@
     </div>
 
     <div class="header-der">
-      <h2> Despliegue de Aplicaciones Web · Juan Miguel Dominguez Perdigon</h2>
+      <h2> Fundamentos de Ciberseguridad · Juan Miguel Dominguez Perdigon</h2>
     </div>
   </header>
 
