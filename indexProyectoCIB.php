@@ -33,9 +33,7 @@
           <span><a class="ejercicio-nombre" href="https://github.com/Juan-D07/JDPDAWProyectoDAW/blob/main/docs/Documentacion-JDP-USED.md" target="_blank"> USED - Servidor Web</a></span>
         </div>
         <div class="unidad-div">
-          <a class="funcional" href="../JDPDWESProyectoTema3/indexProyectoTema3.php">
             <div class="unidad-titulo">APLICACIÓN WEB SEGURA</div>
-          </a>
         </div>
         <div class="unidad-div">
           <div class="unidad-titulo">INFRAESTRUCTURA WEB SEGURA</div>
